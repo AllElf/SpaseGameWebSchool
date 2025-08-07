@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 1e33ac7edaa97c94483ab02db955aefd, type: 3}
+  m_Name: OxygenTankItem Item
+  m_EditorClassIdentifier: 
+  itemName: OxygenTank
+  maximumAmount: 5
+  itemPrefab: {fileID: 2086375876773629720, guid: cdf4eeb576bba8a4ab373e204dc2c5cc, type: 3}
+  icon: {fileID: 21300000, guid: 1688a1cf342c85047aa038d16814d254, type: 3}
+  itemType: 5
+  itemDescription: 
+  healAmount: 0
